@@ -13,7 +13,7 @@
    height="320"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.48.0 r9654"
    version="1.0"
    inkscape:export-filename="/Users/saman/graphics/rmap/renders/openlayers_labeled.png"
    inkscape:export-xdpi="90"
@@ -124,9 +124,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="138.12699"
-     inkscape:cy="215.40739"
+     inkscape:zoom="3.0517578"
+     inkscape:cx="278.00829"
+     inkscape:cy="149.49957"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -167,13 +167,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect2942"
-       width="400"
-       height="320"
-       x="-1.7763568e-14"
-       y="3.0198066e-14" />
+    <path
+       style="fill:#000000;fill-opacity:0.75294118;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 275,186 18,0 0,15 c 0,1.662 -1.338,3 -3,3 l -12,0 c -1.662,0 -3,-1.338 -3,-3 l 0,-15 z"
+       id="path3244-3"
+       inkscape:export-filename="/home/devseed/pro/modules/tilestream-pro/client/maps/ol/dark/zoom-panel.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="fill:#000000;fill-opacity:0.25098039;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3238"
@@ -958,5 +958,114 @@
          d="m 86.498629,161.5 12.002743,0"
          style="color:#000000;fill:none;stroke:#bf0000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
+    <g
+       transform="translate(254,73)"
+       id="g3252-5"
+       inkscape:export-filename="/home/devseed/pro/modules/tilestream-pro/client/maps/ol/dark/zoom-panel.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/yh/rmap/sites/all/themes/rmap/openlayers/zoom-minus-mini.png"
+         sodipodi:nodetypes="ccccccc"
+         style="fill:#000000;fill-opacity:0.75294118;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 21,95 18,0 0,-15 c 0,-1.662 -1.338,-3 -3,-3 l -12,0 c -1.662,0 -3,1.338 -3,3 l 0,15 z"
+         id="path3240-2" />
+      <rect
+         rx="0.5"
+         ry="0.5"
+         y="82"
+         x="29"
+         height="8"
+         width="2"
+         id="rect3246-9"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         rx="0.5"
+         ry="0.5"
+         transform="matrix(0,1,-1,0,0,0)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3248-0"
+         width="2"
+         height="8"
+         x="85"
+         y="-34" />
+    </g>
+    <rect
+       rx="0.5"
+       y="-288"
+       x="194"
+       height="8"
+       width="2"
+       id="rect3250-8"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       transform="matrix(0,1,-1,0,0,0)"
+       ry="0.5"
+       inkscape:export-filename="/home/devseed/pro/modules/tilestream-pro/client/maps/ol/dark/zoom-panel.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g5905-2"
+       transform="translate(217.5,23.5)"
+       inkscape:export-filename="/home/devseed/pro/modules/tilestream-pro/client/maps/ol/dark/zoom-panel.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#000000;fill-opacity:0.75294118;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3252-2"
+         width="18"
+         height="18"
+         x="57.5"
+         y="144.5"
+         inkscape:export-filename="/home/yh/rmap/sites/all/themes/rmap/images/popup.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         transform="matrix(1.1324904,0,0,1.1324904,7.948048,-189.29231)"
+         d="m 57.000001,302.59079 a 5.2980585,5.2980585 0 1 1 -10.596117,0 5.2980585,5.2980585 0 1 1 10.596117,0 z"
+         sodipodi:ry="5.2980585"
+         sodipodi:rx="5.2980585"
+         sodipodi:cy="302.59079"
+         sodipodi:cx="51.701942"
+         id="path3493-6"
+         style="color:#000000;fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:#fefefe;stroke-width:1.76601946;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:9.9;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5714-4"
+         d="m 61.5,150 3,-2.5 1,1 2,0 0,1 -1,1 0,2 1,1 -1,0 -1,0 -1,1 1,1 2,0 1,1 -2,2 0,1 -1,0 -1,-2 0,-2 -2,-1 -1,-2 0,-2.5 z"
+         style="color:#000000;fill:#3f3f3f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccc"
+         id="path5716-1"
+         d="m 72.5,152.5 -1,1 1,0 0,1 -1,2 0,-1 -1,0 -1,-1 1,-1 1,-1 -1,0 -1,1 0,-1 1,-1 0,-1 -1,-1 1,-1 2,4 z"
+         style="color:#000000;fill:#3f3f3f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <rect
+       y="145.5"
+       x="269.5"
+       height="64"
+       width="29"
+       id="rect3387"
+       style="color:#000000;fill:none;stroke:#bf0000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:9.9;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       id="path3389"
+       d="m 298.50001,176.5 12.03575,0"
+       style="color:#000000;fill:none;stroke:#bf0000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;color:#000000;fill:#bf0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Helvetica Neue;-inkscape-font-specification:Helvetica Neue"
+       x="351.66376"
+       y="179.53"
+       id="text3391"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3393"
+         x="351.66376"
+         y="179.53">zoom-panel.png</tspan></text>
   </g>
 </svg>
